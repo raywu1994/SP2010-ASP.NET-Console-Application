@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\bin\Debug\ListInteractionTest.exe
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\bin\Debug\ListInteractionTest.pdb
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\bin\Debug\Microsoft.SharePoint.Linq.dll
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\bin\Debug\Microsoft.BusinessData.dll
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\bin\Debug\Microsoft.SharePoint.xml
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\bin\Debug\Microsoft.SharePoint.Linq.xml
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\bin\Debug\Microsoft.BusinessData.xml
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\obj\Debug\ListInteractionTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\obj\Debug\ListInteractionTest.exe
+C:\Users\Administrator\Documents\Raymond_Visual_Studio\Test - Raymond\ListInteractionTest\ListInteractionTest\obj\Debug\ListInteractionTest.pdb
